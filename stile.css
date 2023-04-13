@@ -3,7 +3,9 @@ body {
 
 background-color:aquamarine ;
 
-.cabecalho__titulo{
+}
+
+.cabecalho__titulo {
 
     display: inline;
 }
