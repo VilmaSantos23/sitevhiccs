@@ -3,10 +3,12 @@ body {
 
     background-color: #FBDF4B;
     
-    
+    justify-content: space-around;
+align-items: center;
     }
     
     .cabecalho__titulo{
+        background-color: #FBDF4B;
     
         display: inline;
     }
@@ -27,4 +29,5 @@ body {
     .cabecalho__menu-item{
     
         display: inline;
+        font-size: 32px;
     }
