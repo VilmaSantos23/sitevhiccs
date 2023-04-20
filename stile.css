@@ -6,6 +6,9 @@ body {
     
     }
 
+    .cabecalho{
+        display:  flex;
+    }
     .cabecalho__titulo { 
 
         display: inline;
@@ -24,4 +27,6 @@ body {
     .cabecalho__menu-item {
 
         display: inline;
+        margin-left: 20px;
+
     }
