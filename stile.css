@@ -3,31 +3,5 @@ body {
 
     background-color: #ad951a;
     
-    justify-content: space-around;
-align-items: center;
-    }
     
-    .cabecalho__titulo{
-        background-color: #FBDF4B;
-    
-        display: inline;
-    }
-    
-    .cabecalho__imagem {
-    
-    width: 130px;
-    height: 160px;
-    border-radius: 100px;
-    
-    }
-    
-    .cabecalho__menu{
-        display: inline;
-    
-    }
-    
-    .cabecalho__menu-item{
-    
-        display: inline;
-        font-size: 32px;
     }
