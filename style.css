@@ -42,6 +42,7 @@ body {
 }
 
 .escola{
+display: flex;
 
     background-color: darkgray;
 
