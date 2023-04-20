@@ -6,7 +6,7 @@ body {
     
     }
 
-    .cabecalho{
+    .cabecalho {
         background-color: aquamarine;
         display:  flex;
         justify-content: space-around;
