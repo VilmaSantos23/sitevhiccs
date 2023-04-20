@@ -8,6 +8,8 @@ body {
 
     .cabecalho{
         display:  flex;
+        justify-content: space-around;
+        align-items: center;
     }
     .cabecalho__titulo { 
 
