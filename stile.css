@@ -7,6 +7,7 @@ body {
     }
 
     .cabecalho{
+        background-color: aquamarine;
         display:  flex;
         justify-content: space-around;
         align-items: center;
@@ -30,5 +31,7 @@ body {
 
         display: inline;
         margin-left: 20px;
+        font-size: 32px;
+
 
     }
