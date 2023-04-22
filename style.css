@@ -44,7 +44,7 @@ body {
 .escola{
 display: flex;
 
-    background-color: darkgray;
+    background-color: rgb(238, 241, 17);
 justify-content: space-around;
 align-items: center;
 margin: 10px;
