@@ -35,8 +35,8 @@ body {
 .cabecalho__menu-item {
 
     display: inline;
-    margin-left: 20px;
-    font-size: 42px;
+    margin-left: 30px;
+    font-size: 52px;
 
 
 }
@@ -47,8 +47,8 @@ display: flex;
     background-color: darkgray;
 justify-content: space-around;
 align-items: center;
-margin: 15px;
-border-radius: 30px;
+margin: 10px;
+border-radius: 20px;
 
 }
 
