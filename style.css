@@ -58,7 +58,7 @@ border-radius: 20px;
     grid-template-rows: auto auto;
     background-color: #425dd8;
     align-items: center;
-    place-items: center;
+    justify-items: center;
     gap: 20px
 }
 
