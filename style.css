@@ -19,7 +19,7 @@ body {
 .cabecalho__titulo {
 
     display: inline;
-    align-items: center;
+    align-items: end;
 }
 
 .cabecalho__imagem {
@@ -69,6 +69,5 @@ border-radius: 20px;
 .escola__imagem {
 width: 150px;
 height: auto;
-justify-items: end;
 
 }
