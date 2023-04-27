@@ -13,7 +13,7 @@ body {
     background-color: rgb(207, 228, 221);
     display: flex;
     justify-content: space-around;
-    
+    align-items: center;
 }
 
 .cabecalho__titulo {
@@ -69,5 +69,6 @@ border-radius: 20px;
 .escola__imagem {
 width: 150px;
 height: auto;
+justify-items: end;
 
 }
