@@ -37,6 +37,7 @@ body {
     display: inline;
     margin-left: 30px;
     font-size: 52px;
+    justify-content: end;
 
 
 }
