@@ -47,7 +47,7 @@ display: flex;
 
     background-color: rgb(238, 241, 17);
 justify-content: center;
-align-items: center;
+align-items: end;
 margin: 10px;
 border-radius: 20px;
 
