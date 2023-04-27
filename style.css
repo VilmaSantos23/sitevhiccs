@@ -46,7 +46,7 @@ body {
 display: flex;
 
     background-color: rgb(238, 241, 17);
-justify-content: end;
+justify-content: center;
 align-items: center;
 margin: 10px;
 border-radius: 20px;
@@ -59,7 +59,7 @@ border-radius: 20px;
     grid-template-rows: auto auto;
     background-color: #425dd8;
     align-items: center;
-    justify-items: center;
+    justify-items:  center;
 }
 
 .professores__div-imagem {
