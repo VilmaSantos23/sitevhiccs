@@ -19,6 +19,7 @@ body {
 .cabecalho__titulo {
 
     display: inline;
+    align-items: end;
 }
 
 .cabecalho__imagem {
