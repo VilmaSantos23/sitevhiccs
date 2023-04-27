@@ -19,7 +19,7 @@ body {
 .cabecalho__titulo {
 
     display: inline;
-    align-items: end;
+    align-items: center;
 }
 
 .cabecalho__imagem {
